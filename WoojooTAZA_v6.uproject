@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OWIEnhancedVehicleMovement",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/22f5211ad3744d948352de8b52e6fc8a"
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		}
+	]
+}
